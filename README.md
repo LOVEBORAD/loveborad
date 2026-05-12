@@ -5,7 +5,7 @@ Full-Stack Developer based in Montreal, currently building production web apps a
 **What I work with**
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Backend:** Node.js / Express, .NET Core / C#, REST APIs
-- **Cloud:** Azure (App Services, Functions, Blob, DevOps), AWS basics
+- **Cloud:** Azure (App Services, Functions, Blob, DevOps), AWS
 - **Data:** SQL Server, MongoDB, Power BI / DAX
 - **Practices:** Code review, unit/integration tests, CI/CD, on-call/DRI
 
